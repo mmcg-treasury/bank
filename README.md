@@ -1,10 +1,10 @@
 <div align="center">
 <br>
-    <a href="https://bank.meta.gov"> 
-        <img src="https://images.bank.meta.gov/logo.png" alt="Bank Application"/>
+    <a href="https://bank.metaversemultiverse.org"> 
+        <img src="https://images.bank.metaversemultiverse.org/logo.png" alt="Bank Application"/>
     </a>
 
-[**Live Preview**](https://bank.pietrzakadrian.com) | [**Swagger Documentation**](https://api.pietrzakadrian.com/documentation) | [**Contact the developer**](mailto:contact@pietrzakadrian.com)
+[**Live Preview**](https://bank.metaversemultiverse.org) | [**Swagger Documentation**](https://api.metaversemultiverse.org/documentation) | [**Contact the developer**](mailto:contact@metaversemultiverse.org)
 
  <hr>
 <h4>
@@ -23,7 +23,7 @@ Full Stack Web Application similar to financial software that is used in profess
 <hr>
 
 <div align="center">
-    <img src="https://images.pietrzakadrian.com/app_dashboard.png"  />
+    <img src="https://images.metaversemultiverse.org/app_dashboard.png"  />
 </div>
 
 <hr>
@@ -58,4 +58,4 @@ git submodule init && git submodule update
 ```
 
 <h4>License</h4>
-This project is licensed under the MIT license. Copyright (c) 2019-2020 Adrian Pietrzak.
+This project is licensed under the MIT license. Copyright (c) 2020-2023 Metaverse Multiverse Central Bank and Reserve.
